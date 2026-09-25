@@ -1,0 +1,10 @@
+2026-09-25 14:40:04,228 - DEBUG - Debugging details here
+2026-09-25 14:40:04,236 - INFO - Application started successfully
+2026-09-25 14:40:04,244 - WARNING - Low disk space warning
+2026-09-25 14:40:04,261 - ERROR - An error occurred
+2026-09-25 14:40:04,264 - CRITICAL - Critical failure!
+2026-09-25 14:43:28,882 - DEBUG - This is a debug message
+2026-09-25 14:43:28,890 - INFO - Application started successfully
+2026-09-25 14:43:28,897 - WARNING - Low disk space warning
+2026-09-25 14:43:28,902 - ERROR - An error occurred
+2026-09-25 14:43:28,907 - CRITICAL - Critical failure!
